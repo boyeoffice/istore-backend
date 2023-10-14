@@ -1,0 +1,19 @@
+{
+  "name": "microservice-ecommerce",
+  "version": "0.0.1",
+  "description": "Microservice ecommerce project",
+  "main": "index.js",
+  "repository": "https://github.com/istore-backend",
+  "author": "Olakunle Boye",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.5.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^9.0.1"
+  }
+}
